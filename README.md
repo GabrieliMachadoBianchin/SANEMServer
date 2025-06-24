@@ -49,10 +49,10 @@ DATABASE_USER=Admin
 DATABASE_PASSWORD=Admin123
    
 
-2. Para rodar a aplicação 
- 2.1. para rodar o servidor na maquina, sem ser através do Docker 
+2. Para rodar a aplicação
+2.1. para rodar o servidor na maquina, sem ser através do Docker 
   - digitar no terminal npm run dev para rodar 
- 2.2. para rodar usando Docker
+2.2. para rodar usando Docker
   - Digitar no terminal do programa ( dentro do caminho dele)
   - Docker build -t my-node-app .   ( para criar a imagem Docker)
   - docker-compose up               ( para criar o container Docker)

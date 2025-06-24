@@ -37,7 +37,7 @@ O nosso projeto se propõe a resolver a problemática das doações de roupas da
 
 Siga os passos para rodar o projeto localmente:
 
-1 - Clonar repositório 
+1. Clonar repositório 
 
 - criar nova pasta;
 - abrir pasta no vscode
@@ -49,7 +49,7 @@ DATABASE_USER=Admin
 DATABASE_PASSWORD=Admin123
    
 
-2 - Para rodar a aplicação 
+2. Para rodar a aplicação 
  2.1 para rodar o servidor na maquina, sem ser através do Docker 
   - digitar no terminal npm run dev para rodar 
  2.2 para rodar usando Docker
@@ -74,6 +74,8 @@ DATABASE_PASSWORD=Admin123
 ## 📄 Documentação
 
 [Documentação](https://docs.google.com/document/d/1AAftUtZLdgNcrAR81hu4ujMgPfKsgk5sTsIFrUFoR6M/edit?usp=sharing)
+[Prototipação](https://www.figma.com/design/Nw6ZMXU4QDHtnW0xVftRn1/Untitled?node-id=0-1&t=Ecz3DBGmvg3mjTuf-1).
+[Trello](https://trello.com/invite/b/67e30a8d5b7a21524c2541ac/ATTI536628c2633e8b3c378224e702e822b7F186A0A2/brancho).
 
 ---
 
